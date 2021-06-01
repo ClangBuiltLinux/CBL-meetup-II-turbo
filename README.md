@@ -12,7 +12,7 @@ the next week.
 See also slides from
 [our even last year](https://github.com/ClangBuiltLinux/CBL-meetup-2020-slides)
 for ideas of subject matter and target audience (ie. a mix of kernel
-developers, compiler devs, folks who understant one or the other, perhaps
+developers, compiler devs, folks who understand one or the other, perhaps
 both).
 
 ## When
